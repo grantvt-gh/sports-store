@@ -1,2 +1,11 @@
-# Visual Studo 2015 cache/options directory
+
 .vs/
+
+SportsStore/obj/
+
+Properties/
+
+SportsStore/appsettings.json
+
+SportsStore/bin/
+/SportsStore/appsettings.Development.json
