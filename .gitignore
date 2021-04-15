@@ -10,3 +10,6 @@ SportsStore/appsettings.Development.json
 
 SportsStore/bin/
 /.vs/SportsStore/v16
+
+/SportsStore.Tests/obj
+/SportsStore.Tests/bin/Debug/net5.0
