@@ -1,11 +1,12 @@
 
-.vs/
+SportsStore/.vs/
 
-obj/
+SportsStore/obj/
 
-Properties/
+SportsStore/Properties/
 
-appsettings.json
-appsettings.Development.json
+SportsStore/appsettings.json
+SportsStore/appsettings.Development.json
 
-bin/
+SportsStore/bin/
+/.vs/SportsStore/v16
