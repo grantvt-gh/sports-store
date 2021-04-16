@@ -13,3 +13,6 @@ SportsStore/bin/
 
 /SportsStore.Tests/obj
 /SportsStore.Tests/bin/Debug/net5.0
+/.vs/SportsStore
+/obj
+/Properties

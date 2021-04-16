@@ -13,6 +13,7 @@ namespace SportsStore.Tests {
 
         [Fact]
         public void Can_Use_Repository() {
+
             // Arrange
             Mock<IStoreRepository> mock = new Mock<IStoreRepository>();
             mock.Setup(m => m.Products).Returns((new Product[] {
